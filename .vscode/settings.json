@@ -4,6 +4,7 @@
         "valarray": "cpp",
         "vector": "cpp",
         "functional": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "unordered_map": "cpp"
     }
 }
